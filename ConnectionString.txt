@@ -1,0 +1,9 @@
+"ConnectionStrings": {
+    "Default": "Server=localhost\\SQLEXPRESS;Database=dbname;Trusted_Connection=True;Encrypt=false;TrustServerCertificate=true"
+    "Default": "Server=localhost\\SQLEXPRESS;Database=name;Trusted_Connection=True;Encrypt=false;TrustServerCertificate=true;User ID=sa;Password=sa12345$"
+    
+    
+    
+"Default": "Server=localhost\\SQLEXPRESS;Database=abpdb1;Trusted_Connection=True"
+
+  },
